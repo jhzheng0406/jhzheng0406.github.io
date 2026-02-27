@@ -29,13 +29,13 @@ Data Structure (90), Pattern Recognition (96), Principles of Automatic Control (
 # 🔬 Research Experience
 * Nov. 2024 -- June. 2025: Research Assistant
   * Project Name: Efficient Continual Learning for LLMs: A Parameter Sorting Approach to Mitigate Catastrophic Forgetting
-    * Proposed a block-wise parameter sorting method to address catastrophic forgetting within a continual learning setting for large language models (LLMs).
+    * Proposed a dynamic block-wise parameter sorting method that identifies and protects task-critical parameters during fine-tuning, effectively mitigating catastrophic forgetting in a continual learning setting for LLMs.
     * Dynamically updated a subset of parameters to preserve performance on previous tasks while improving training efficiency compared to existing methods.
   * Advisor: **Xiaolin Huang,** Professor, Vice Dean, Department of Automation, SJTU
     
 * July. 2024 -- May. 2025: Research Assistant
   * Project Name: Fewer Generated Images for Better Augmentation
-    * Leveraged the GLIDE, a text-to-image model, with real guidance strategies to diversify the training datasets.
+    * Leveraged GLIDE text-to-image model with real guidance strategies to selectively diversify training datasets.
     * Conducted experiments on multiple datasets and across multiple architectures using upsampling and Diffusion-based data augmentation techniques.
     * Improved the classification accuracy by 1% than that without augmentation and training efficiency by 70% than 2x scale Diffusion-based data augmentation using selectively incorporating generated data.
   * Advisor: **Baharan Mirzasoleiman,** Assistant Professor, Computer Science Department, UCLA

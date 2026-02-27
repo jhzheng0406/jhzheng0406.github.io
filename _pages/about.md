@@ -21,10 +21,10 @@ You can find my CV here: [Jinghao Zheng's Curriculum Vitae](../assets/CV_zjh_101
 
 Education
 ======
-- *2025.08 - now*, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland
+*2025.08 - now*, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland
   M.S. in Computer Science. 
 
-- *2021.09 - 2025.06*, Shanghai Jiao Tong University (SJTU), Shanghai, China              
+*2021.09 - 2025.06*, Shanghai Jiao Tong University (SJTU), Shanghai, China              
   B.E. in Automation(Computer Science and Engineering)
 * Major GPA:3.82/4.3
 * Centesimal grade average:89.23/100

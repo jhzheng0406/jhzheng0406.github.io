@@ -14,7 +14,7 @@ redirect_from:
   M.S. in Computer Science. 
 
 *2021.09 - 2025.06*, Shanghai Jiao Tong University (SJTU), Shanghai, China              
-  B.E. in Automation(Computer Science and Engineering)
+  B.E. in Automation(Computer Science and Engineering).
 * Major GPA:3.82/4.3
 * Centesimal grade average:89.23/100
 * Core Courses: Calculus ΙΙ (98), Probability and Statistics (99), Linear Algebra (92), Discrete Mathematics (93),

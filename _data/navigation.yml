@@ -1,4 +1,7 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Publications"
+    url: "/pub"

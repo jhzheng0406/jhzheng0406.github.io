@@ -10,7 +10,12 @@ author_profile: true
 - [Unified Gradient-Based Machine Unlearning with Remain Geometry Enhancement](https://proceedings.neurips.cc/paper_files/paper/2024/file/2e622ac74f66df03b686a12e2e0e4424-Paper-Conference.pdf), Z. Huang, X. Cheng, **J. Zheng**, H. Wang, Z. He, T. Li, and X. Huang. **NeurIPS 2024** (Accepted as a spotlight)
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{[https://scholar.google.com/citations?user=toxSa0cAAAAJ&hl=zh-CN]}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+You can also find my articles on
+<a href="https://scholar.google.com/citations?user=toxSa0cAAAAJ&hl=zh-CN">
+my Google Scholar profile
+</a>.
+</div>
 {% endif %}
 
 {% include base_path %}

@@ -21,7 +21,7 @@ repository               : "JinghaoZheng/JinghaoZheng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "android-chrome-512x512.png"
   name             : "Jinghao Zheng"
   pronouns         : # example: "she/her"  
   bio              : "EPFL"

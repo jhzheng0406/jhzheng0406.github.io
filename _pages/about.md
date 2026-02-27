@@ -19,7 +19,7 @@ My research focuses on generative modeling, with a particular emphasis on video 
 
 You can find my CV here: [Jinghao Zheng's Curriculum Vitae](../files/JHZheng_CV.pdf).
 
-Education
+# 📖 Education
 ======
 *2025.08 - now*, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland
   M.S. in Computer Science. 
@@ -31,13 +31,13 @@ Education
 * Core Courses: Calculus ΙΙ (98), Probability and Statistics (99), Linear Algebra (92), Discrete Mathematics (93),
 Data Structure (90), Pattern Recognition (96), Principles of Automatic Control (94), Robotics (93)
 
-Publication
+# 📝 Publication
 ======
 - [Do We Need All the Synthetic Data? Targeted Image Augmentation via Diffusion Models](https://iclr.cc/virtual/2026/poster/10009127), Dang Nguyen†, Jiping Li†, **Jinghao Zheng†**, and Baharan Mirzasoleiman. **ICLR 2026** (Accepted as a poster)
 
 - [Unified Gradient-Based Machine Unlearning with Remain Geometry Enhancement](https://proceedings.neurips.cc/paper_files/paper/2024/file/2e622ac74f66df03b686a12e2e0e4424-Paper-Conference.pdf), Z. Huang, X. Cheng, **J. Zheng**, H. Wang, Z. He, T. Li, and X. Huang. **NeurIPS 2024** (Accepted as a spotlight)
 
-Research Experience
+# 📝 Research Experience
 ======
 * Nov. 2024 -- June. 2025: Research Assistant
   * Project Name: Efficient Continual Learning for LLMs: A Parameter Sorting Approach to Mitigate Catastrophic Forgetting
@@ -77,7 +77,7 @@ Research Experience
     * Developed control code for Raspberry Pi to ensure precise movement and implemented ROS2 communication protocols for real-time data exchange between the robots and the main computer.
   * Advisor: **Liufang Wang,** Senior Engineer, Student Innovation Center, SJTU
   
-Honors & Awards
+# 🎖 Honors & Awards
 ======
 * University-Level Outstanding Graduate of SJTU, 2025
 * 3rd Prize of TI Cup National Undergraduate Electronic Design Contest Shanghai area, 2023

@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can also find my CV here: [Jinghao Zheng's Curriculum Vitae]({{ site.baseurl }}/files/JHZheng_CV.pdf).
 
 # 📖 Education
 *2025.08 - now*, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland

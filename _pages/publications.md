@@ -15,7 +15,6 @@ You can also find my articles on
 <a href="https://scholar.google.com/citations?user=toxSa0cAAAAJ&hl=zh-CN">
 my Google Scholar profile
 </a>.
-</div>
 {% endif %}
 
 {% include base_path %}

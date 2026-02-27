@@ -14,7 +14,7 @@ Previously, I received my undergraduate degree from the Department of Automation
 During my undergraduate studies, I conducted summer research at [UCLA](https://www.ucla.edu) under the supervision of [Prof. Baharan Mirzasoleiman](https://baharanm.github.io/).
 
 Currently, I am advised by [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en) and postdoctoral researcher [Wuyang Li](https://wymancv.github.io/wuyang.github.io/) at EPFL, where I work on video generation.
-ß
+
 My research focuses on generative modeling, with a particular emphasis on video generation and the development of efficient, scalable generative methods for real-world applications.
 
 You can find my CV here: [Jinghao Zheng's Curriculum Vitae](../assets/CV_zjh_1016.pdf).

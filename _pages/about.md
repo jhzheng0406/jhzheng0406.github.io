@@ -33,7 +33,7 @@ You can find my CV here: [Jinghao Zheng's Curriculum Vitae]({{ site.baseurl }}/f
 - [Unified Gradient-Based Machine Unlearning with Remain Geometry Enhancement](https://proceedings.neurips.cc/paper_files/paper/2024/file/2e622ac74f66df03b686a12e2e0e4424-Paper-Conference.pdf), Z. Huang, X. Cheng, **J. Zheng**, H. Wang, Z. He, T. Li, and X. Huang. **NeurIPS 2024** (Accepted as a spotlight)
 
 # 🎖 Honors & Awards
-* University-Level Outstanding Graduate of SJTU, 2025
+* Outstanding Graduate of SJTU, 2025
 * 3rd Prize of TI Cup National Undergraduate Electronic Design Contest Shanghai area, 2023
 * 3rd Prize of Academic Scholarship of Shanghai Jiao Tong University, 2022 & 2023 & 2024
 * 2nd Prize of Chinese Physics Olympiad (Zhejiang Area), 2019

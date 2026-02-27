@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-# Jinghao Zheng
-
 I am a first-year Master’s student in Computer Science at [EPFL](https://www.epfl.ch).
 
 Previously, I received my undergraduate degree from the Department of Automation at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn), where I was advised by [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin) at the Institute of Image Processing and Pattern Recognition.

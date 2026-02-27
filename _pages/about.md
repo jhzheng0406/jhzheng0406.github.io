@@ -29,7 +29,3 @@ I am also a fan of the Golden State Warriors.
 
 Feel free to reach out if you share similar interests.
 
-More about me
-======
-I really enjoy playing basketball and tennis and watching TV shows sometimes. And I am a fan of the Golden State Warriors!  
-If you also have the same hobby as me, feel free to contact me! I can't wait to play basketball with different guys!

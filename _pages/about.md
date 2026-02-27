@@ -17,7 +17,7 @@ Currently, I am advised by [Prof. Alexandre Alahi](https://people.epfl.ch/alexan
 
 My research focuses on generative modeling, with a particular emphasis on video generation and the development of efficient, scalable generative methods for real-world applications.
 
-You can find my CV here: [Jinghao Zheng's Curriculum Vitae](../assets/CV_zjh_1016.pdf).
+You can find my CV here: [Jinghao Zheng's Curriculum Vitae](../assets/JHZheng_CV.pdf).
 
 Education
 ======

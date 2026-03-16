@@ -27,6 +27,13 @@ Data Structure (90), Pattern Recognition (96), Principles of Automatic Control (
 - [Unified Gradient-Based Machine Unlearning with Remain Geometry Enhancement](https://proceedings.neurips.cc/paper_files/paper/2024/file/2e622ac74f66df03b686a12e2e0e4424-Paper-Conference.pdf), Z. Huang, X. Cheng, **J. Zheng**, H. Wang, Z. He, T. Li, and X. Huang. **NeurIPS 2024** (Accepted as a spotlight)
 
 # 🔬 Research Experience
+* Feb. 2026 -- Present: Research Assistant
+  * **Project**: Prompt-Faithful Video Generation with Dynamic Sink Adjustment
+    * Investigated sink-based forcing methods in video generation and found that sink mechanisms used to reduce drift can degrade prompt following for salient foreground objects.
+    * Designed and implemented a dynamic sink adjustment method that predicts the spatial locations of key foreground objects from prompts and adapts sink placement through perturbations to the corresponding spatial RoPE vectors.
+    * Improved prompt following by better aligning foreground object generation and spatial layout with textual prompts.
+  * Advisor: **Alexandre Alahi,** Associate Professor, School of Engineering, EPFL
+    
 * Nov. 2024 -- June. 2025: Research Assistant
   * **Project**: Efficient Continual Learning for LLMs: A Parameter Sorting Approach to Mitigate Catastrophic Forgetting
     * Proposed a dynamic block-wise parameter sorting method that identifies and protects task-critical parameters during fine-tuning, effectively mitigating catastrophic forgetting in a continual learning setting for LLMs.

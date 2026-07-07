@@ -12,9 +12,9 @@ I am a first-year Master’s student in Computer Science at [EPFL](https://www.e
 
 Previously, I received my undergraduate degree from the Department of Automation at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn), where I was advised by [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin) at the Institute of Image Processing and Pattern Recognition.
 
-During my undergraduate studies, I conducted summer research at [UCLA](https://www.ucla.edu) under the supervision of [Prof. Baharan Mirzasoleiman](https://baharanm.github.io/).
+I am currently conducting summer research at [UCLA](https://www.ucla.edu) under the supervision of [Prof. Baharan Mirzasoleiman](https://baharanm.github.io/), working on diffusion language models for targeted data augmentation.
 
-Currently, I am advised by [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en) and postdoctoral researcher [Wuyang Li](https://wymancv.github.io/wuyang.github.io/) at EPFL, where I work on video generation.
+Previously at EPFL, I worked with [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en) and postdoctoral researcher [Wuyang Li](https://wymancv.github.io/wuyang.github.io/) on video generation.
 
 My research focuses on generative modeling, with a particular emphasis on video generation and efficient, scalable generative methods for real-world applications.
 

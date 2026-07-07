@@ -27,11 +27,19 @@ Data Structure (90), Pattern Recognition (96), Principles of Automatic Control (
 - [Unified Gradient-Based Machine Unlearning with Remain Geometry Enhancement](https://proceedings.neurips.cc/paper_files/paper/2024/file/2e622ac74f66df03b686a12e2e0e4424-Paper-Conference.pdf), Z. Huang, X. Cheng, **J. Zheng**, H. Wang, Z. He, T. Li, and X. Huang. **NeurIPS 2024** (Accepted as a spotlight)
 
 # 🔬 Research Experience
-* Feb. 2026 -- Present: Research Assistant
-  * **Project**: Prompt-Faithful Video Generation with Dynamic Sink Adjustment
-    * Investigated sink-based forcing methods in video generation and found that sink mechanisms used to reduce drift can degrade prompt following for salient foreground objects.
-    * Designed and implemented a dynamic sink adjustment method that predicts the spatial locations of key foreground objects from prompts and adapts sink placement through perturbations to the corresponding spatial RoPE vectors.
-    * Improved prompt following by better aligning foreground object generation and spatial layout with textual prompts.
+* June 2026 -- Present: Research Intern (Summer Research)
+  * **Project**: Diffusion Language Models for Targeted Data Augmentation
+    * Extending our targeted synthetic augmentation framework from the vision domain to language, using LLaDA (a diffusion language model) to selectively synthesize training data for "slow-learnable" examples.
+    * Constructed harder, more plausible examples through a two-sided pipeline: generating question variants on the question side with LLaDA, then producing the corresponding correct solutions on the answer side with GPT.
+  * Advisor: **Baharan Mirzasoleiman,** Associate Professor, Computer Science Department, UCLA
+
+* Feb. 2026 -- June 2026: Research Assistant
+  * **Project**: 1-Step Video Diffusion Distillation
+    * Distilled a 50-step controllable video diffusion model into a 1-step generator, achieved ~55× faster denoising, supporting pose-controlled continuous video stable up to 600s (~9,600 frames).
+    * Adopted a chunkwise generation scheme in which frames within each chunk are denoised jointly by a bidirectional model, preserving high per-chunk visual quality while delivering the single-step speedup.
+    * Combined Distribution Matching Distillation (DMD) with adversarial (GAN) training to restore high-frequency texture lost in single-step generation and approach multi-step teacher quality, trained parameter-efficiently with LoRA.
+    * Designed recent-reference augmentation so the 1-step student learns to recover from drifted/imperfect anchor frames, suppressing error accumulation in long autoregressive rollout.
+    * Implemented an error-recycling mechanism that re-injects the student's own accumulated drift into the training conditioning, paired with a self-correcting L1 loss, markedly improving long-video temporal consistency.
   * Advisor: **Alexandre Alahi,** Associate Professor, School of Engineering, EPFL
     
 * Nov. 2024 -- June. 2025: Research Assistant
